@@ -13,5 +13,6 @@ public class decimal {
             decimal_num /= 2;
         }
         System.out.println(ans);
+        sc.close();
     }
 }

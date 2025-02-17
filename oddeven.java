@@ -10,6 +10,7 @@ public class oddeven {
             System.out.println("even");
         } else {
             System.out.println("odd");
+            sc.close();
         }
 
     }

@@ -12,6 +12,7 @@ public class rectangular {
                 
             }
             System.out.println();
+            sc.close();
         } 
 
 

@@ -15,5 +15,6 @@ public class binary {
 
         }
         System.out.println(ans);
+        sc.close();
     }
 }

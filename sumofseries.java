@@ -16,5 +16,6 @@ public class sumofseries {
             
         }
         System.out.println(ans);
+        sc.close();
     }
 }

@@ -11,5 +11,6 @@ public class sum {
             n = n / 10;
          }
          System.out.println("sum of digits in " + original_n + "=" + sumofdigits);
+         sc.close();
     }
 }

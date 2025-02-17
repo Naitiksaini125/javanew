@@ -17,6 +17,7 @@ public class grades {
                 }
                 else{System.out.println("fail");} // damn below 70 fail why? ;( //
             }
+            sc.close();
         }
     }
 }

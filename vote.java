@@ -8,5 +8,7 @@ public class vote {
             System.out.println("eligible");
         }
          else{System.out.println("npt eligible");}
-    }
+         sc.close();
+    } 
 }
+    

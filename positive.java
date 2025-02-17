@@ -14,5 +14,6 @@ public class positive {
             }
             else{System.out.println("zero");}
         }
+        sc.close();
     }
 }

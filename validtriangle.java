@@ -11,6 +11,7 @@ public class validtriangle {
         }
         else{
             System.out.println("trianle cannot be formed");
+            sc.close();
         }
     }
 }

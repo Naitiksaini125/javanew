@@ -8,6 +8,8 @@ public class table {
         
         for( int num = 1; num <= 10 ; num++){
             System.out.println(num + "*" + n + "=" + (num*n));
+            sc.close();
+        
         }
     }
 }

@@ -10,5 +10,6 @@ public class naturalnum {
             sum = sum + num; num++;
         }
         System.out.println(sum);
+        sc.close();
     }
 }

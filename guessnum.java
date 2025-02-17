@@ -25,6 +25,7 @@ public class guessnum {
             else{
                 hasGuessed = true;
                 System.out.println("you have guessed the number ! "+number+ "in"+attempts+ "attempts");
+                sc.close();
 
             }
         }
