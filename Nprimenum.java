@@ -13,7 +13,7 @@ public class Nprimenum {
                 }
             }
             if (isPrime) {
-                System.out.println(i + "is prime");
+                System.out.println(i + " is prime");
                 sc.close();
             }
 
